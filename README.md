@@ -7,7 +7,7 @@ August 25th, 2026
 Over the past decade, **bicycle-sharing** systems have been growing in numbers. This project contains data related to bike share systems for three major US cities: _Chicago_, _New York City_ and _Washington_. 
 
 ### Description
-The **Python** code developed as part of this project provides you with descriptive statistics on the rental and usage behavior of bicycle-sharing in _Chicago_, _New York City_ and _Washington_.
+The **Python** code developed as part of this project provides you with descriptive statistics on the rental and usage behavior of bicycle-sharing in _Chicago_, _New York City_ and _Washington_. The analysis provides you with information on **rental users**, **time**, **station** and **trip duration** statistics.
 
 ### Files used
 **Python**, **CSV raw data** 
