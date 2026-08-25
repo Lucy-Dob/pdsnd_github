@@ -10,8 +10,7 @@ Over the past decade, **bicycle-sharing** systems have been growing in numbers. 
 The **Python** code developed as part of this project provides you with descriptive statistics on the rental and usage behavior of bicycle-sharing in _Chicago_, _New York City_ and _Washington_.
 
 ### Files used
-**Python**
-**CSV raw data** 
+**Python**, **CSV raw data** 
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
