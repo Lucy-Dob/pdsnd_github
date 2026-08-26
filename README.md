@@ -1,13 +1,13 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
-August 25th, 2026
+August 25th, 2026, August 26th 2026
 
 ### Bikeshare Project
-Over the past decade, **bicycle-sharing** systems have been growing in numbers. This project contains data related to bike share systems for three major US cities: _Chicago_, _New York City_ and _Washington_. 
+Over the past decade, **bicycle-sharing** systems have been growing in numbers. Bicycle-sharing systems allow users to **rent bicycles** on a very **short-term basis** for a price. You can borrow the bike from point A and return it at point B. Each bike can serve **several users** per day. This project contains data related to bike share systems for three major US cities: _Chicago_, _New York City_ and _Washington_. 
 
 ### Description
-The **Python** code developed as part of this project provides you with descriptive statistics on the rental and usage behavior of bicycle-sharing in _Chicago_, _New York City_ and _Washington_. The analysis provides you with information on **rental users**, **time**, **station** and **trip duration** statistics.
+The **Python** code developed as part of this project provides you with descriptive statistics on the rental and usage behavior of bicycle-sharing in _Chicago_, _New York City_ and _Washington_. The analysis provides you with information on **rental users**, **time**, **station** and **trip duration** statistics. You can also display raw data.
 
 ### Files used
 **Python** 
@@ -17,5 +17,5 @@ The **Python** code developed as part of this project provides you with descript
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-The contents of this repository are covered under the Udacity License
+The contents of this repository are covered under the Udacity License.
 
