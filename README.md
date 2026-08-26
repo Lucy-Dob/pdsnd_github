@@ -10,7 +10,10 @@ Over the past decade, **bicycle-sharing** systems have been growing in numbers. 
 The **Python** code developed as part of this project provides you with descriptive statistics on the rental and usage behavior of bicycle-sharing in _Chicago_, _New York City_ and _Washington_. The analysis provides you with information on **rental users**, **time**, **station** and **trip duration** statistics.
 
 ### Files used
-**Python**, **CSV raw data** 
+**Python** 
+`import time`
+`import pandas as pd`, 
+**CSV raw data** 
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
