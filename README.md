@@ -17,4 +17,5 @@ The **Python** code developed as part of this project provides you with descript
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+The contents of this repository are covered under the Udacity License
 
